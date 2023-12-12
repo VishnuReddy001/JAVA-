@@ -1,4 +1,5 @@
-public class Dowhile {
+public class Dowhile 
+{
     public static void main(String[] args) {
         int i = 1;//Atleast it runs 1 time.
         do
